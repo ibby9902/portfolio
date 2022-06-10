@@ -1,0 +1,17 @@
+.intro-container {
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro-content {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.5rem;
+    justify-content: center;
+    text-align: center;
+    max-width: 1000px;
+}
